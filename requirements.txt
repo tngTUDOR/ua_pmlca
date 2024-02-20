@@ -5,3 +5,4 @@ isort
 nbdime
 jupyterlab
 jupyterlab-code-formatter
+ipwidgets
