@@ -1,0 +1,7 @@
+brightway25
+black
+pylint
+isort
+nbdime
+jupyterlab
+jupyterlab-code-formatter
