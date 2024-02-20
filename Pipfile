@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+brightway25 = "*"
+black = "*"
+pylint = "*"
+isort = "*"
+nbdime = "*"
+jupyterlab = "*"
+jupyterlab-code-formatter = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
